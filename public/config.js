@@ -3,10 +3,10 @@ window.__CONFIG__ = {
   // If not specified, the onboarding will not allow a "default setup". The user will have to use the extension or set up a proxy themselves
   VITE_CORS_PROXY_URL: "",
 
-  VITE_BACKEND_URL: "https://server.vidbinge.com",
+  VITE_BACKEND_URL: "https://server.fifthwit.net",
 
   // The READ API key to access TMDB
-  VITE_TMDB_READ_API_KEY: "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1NzlkZWYyZDY5ZWFlNDk4ZjJiOTI4MTgyNDdjM2ViMCIsInN1YiI6IjY2MjdmMGJlNjJmMzM1MDE0YmQ4NTFmMiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.h3KpPvkiaz8uNz1bntAKqsPrxG_4UUWaY3kYME6N6m8",
+  VITE_TMDB_READ_API_KEY: "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3Nzg5Y2VhZDY5ODc5YzQ0Y2E5MDM4Njk4NTI1Y2IzOSIsIm5iZiI6MTYzNjEyNDg2Ny43ODMsInN1YiI6IjYxODU0OGMzMDc1Mjg4MDA4ZDBlNDE1OSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.PJbuimwoh68UwIExHC5NWcDi1J2Itkk9SklV6ZkT6JE",
 
   // The DMCA email displayed in the footer, null to hide the DMCA link
   VITE_DMCA_EMAIL: null,
